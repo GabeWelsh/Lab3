@@ -1,5 +1,8 @@
 all: program
 
+debug: main prompt response
+	g++ main.cpp prompt.cpp response.cpp -o exe -g
+
 program: main prompt response
 	g++ main.cpp prompt.cpp response.cpp -o exe
 

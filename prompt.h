@@ -14,7 +14,7 @@ private:
   int id;
 
 public:
-  Prompt() : id(0) {}
+  Prompt() : id(-1), question("") {}
   Prompt(const string &);
   Prompt(const Prompt &);
   int getId();
@@ -31,7 +31,7 @@ public:
   // prints text of prompt and its responses
   // and randomly select one of the `outputs`.
   friend ostream &operator<<(ostream &os, const Prompt &prompt);
-  
+
   // reads a prompt from a text input file.
   friend istream &operator>>(istream &is, Prompt &prompt);
 };
