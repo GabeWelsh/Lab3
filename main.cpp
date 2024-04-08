@@ -21,6 +21,8 @@ int main() {
     cool.push_back(prompt);
   }
 
+  cout << cool.at(0);
+
   // Close the file
   inputFile.close();
   return 0;

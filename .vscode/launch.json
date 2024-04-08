@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/home/underman/Documents/school/CISP/Lab3-1",
-      "program": "/home/underman/Documents/school/CISP/Lab3-1/exe",
+      "cwd": "/home/underman/Documents/school/CISP/Lab3",
+      "program": "/home/underman/Documents/school/CISP/Lab3/exe",
     }
   ]
 }
