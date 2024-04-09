@@ -14,16 +14,22 @@ private:
   int id;
 
 public:
-  Prompt() : id(-1), question("") {}
-  Prompt(const string &);
-  Prompt(const Prompt &);
+  Prompt() : id(-1), question("") {} // default constructor
+  Prompt(const string &);            // string constructor
+  Prompt(const Prompt &);            // copy constructor
+
+  // get and set functions for `id` and `question`
   int getId();
   string getQuestion();
   void setQuestion(string);
   void setId(int);
 
+  int getResponsesSize();
   // append the paramater Response to `responses`
   void addResponse(Response);
+
+  // get next index from the `inth` element in `responses`
+  int getResponseIdx(int inth);
 
   // clear `responses` vector.
   void clearResponses();

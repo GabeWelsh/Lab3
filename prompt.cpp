@@ -39,26 +39,37 @@ void Prompt::addResponse(Response a) {
 // clear `responses` vector.
 void Prompt::clearResponses() {
   responses.clear();
-  id = 0;
+  id = -1;
 }
+
+// get next index from the `inth` element in `responses`
+int Prompt::getResponseIdx(int inth) {
+  // return responses[inth];
+  return responses[inth].getindex();
+}
+
+int Prompt::getResponsesSize() { return responses.size(); }
 
 // prints text of prompt and its responses
 // and randomly select one of the `outputs`.
 ostream &operator<<(ostream &os, const Prompt &prompt) {
+  // set the stage :)
   os << prompt.question << endl;
 
   // print responses vec
+  int i = 0;
   for (vector<Response>::const_iterator lol = prompt.responses.cbegin();
        lol != prompt.responses.cend(); lol++) {
-    os << lol->getResponseText();
+    os << "(" << i << ") " << lol->getResponseText() << endl;
+    i++;
   }
 
-  random_device rd;
-  mt19937 gen(rd());
-  uniform_int_distribution<int> dis(0, prompt.responses.size() - 1);
-  int index = dis(gen);
-
-  os << prompt.outputs[index] << endl;
+  // print random thing
+  std::random_device dev;
+  std::mt19937 rng(dev());
+  std::uniform_int_distribution<std::mt19937::result_type> dist6(0, 9);
+  int index = dist6(rng);
+  os << prompt.outputs[index] << " ";
 
   return os;
 }
