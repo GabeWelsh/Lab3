@@ -18,8 +18,6 @@ int main() {
   string line;
   int i=0;
   while (getline(inputFile, line)) {
-    i++;
-    cout << i << endl;
     Prompt prompt;
     istringstream iss(line);
     iss >> prompt;
