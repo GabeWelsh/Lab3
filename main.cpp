@@ -16,7 +16,7 @@ int main() {
     return 1;
   }
   string line;
-  int i=0;
+  int i = 0;
   while (getline(inputFile, line)) {
     Prompt prompt;
     istringstream iss(line);
@@ -52,8 +52,6 @@ int main() {
   } while (index >= 0);
 
   cout << "Sayonara!" << endl;
-
-  // so ez, just a 2 step process
 
   return 0;
 }

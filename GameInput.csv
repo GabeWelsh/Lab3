@@ -1,17 +1,17 @@
 0|You are the captain the the renown space pirates: Astro Booty. You have just completed a successful heist on one of the space government's ship.|LETS PARTY!|1|Let's drive into the void :)|2|
-1|"You and your crew party the night away, creating a large mess on the ship deck."|Clean up the mess|4|Head to refuel|8|
+1|You and your crew party the night away, creating a large mess on the ship deck.|Clean up the mess|4|Head to refuel|8|
 2|You are running low on fuel... Are you sure?|YES|3|No|0|
-3|"Congrats, you ran out of fuel in the middle of nowhere. You and your crew die of dehydration. GAME OVER"|Try again?|0|Give up?|-1|
+3|Congrats, you ran out of fuel in the middle of nowhere. You and your crew die of dehydration. GAME OVER|Try again?|0|Give up?|-1|
 4|Turns out your crew doesn't like to clean very much. They decide to stage a mutiny. What should you do?|Party extra hard to make up for it|5|Tell them about the importance of cleaning.|6|
 5|You have now created an even bigger mess... At least you weren't killed...|Let's go get gas.|8|Let's search for a new target :)|7|
 6|You explain to your crew the myriad of psychological benefits to cleaning. Your crew kills you because you are such a nerd.|Try again?|0|Give up?|-1|
-7|You are running low on fuel... Are you sure?|"YES, I AM"|3|Nope|5|
+7|You are running low on fuel... Are you sure?|YES, I AM|3|Nope|5|
 8|Congrats on getting gas. What should you do now?|Raid the nearest police station.|9|Search for the next victim... IN SPACE.|10|Chat with a nearby pirate crew.|11|
 9|You get your crew hyped up and ready to go. How should you approach the raid.|Use stealth|12|GUNS BLAZING|13|
 10|You find a merchant ship and a mobile carnival. Which one should you raid?|The merchant ship|16|The mobile carnival|17|
-11|You all talk about raiding the CONVEX REGULAR DODECAHEDRON (space pentagon) and come up with a pretty good plan.|Let's help them|28|"Nah, I'm good."|29|
+11|You all talk about raiding the CONVEX REGULAR DODECAHEDRON (space pentagon) and come up with a pretty good plan.|Let's help them|28|Nah, I'm good.|29|
 12|Apparently trying to be sneaky doesn't work when the station is equiped with a crap ton of sensors. You immediately get caught and massacred :D... GAME OVER|Try again?|0|Give up?|-1|
-13|You take the station by suprise. It's a hard fought battle, but you and your crew emerge victorious."|Let's set the prisoners free|14|Leave the prisoners in their cells.|15|
+13|You take the station by suprise. It's a hard fought battle, but you and your crew emerge victorious.|Let's set the prisoners free|14|Leave the prisoners in their cells.|15|
 14|They immediately steal your ship while you weren't looking. You are now stranded. GAME OVER|Try again?|0|Give up?|-1|
 15|You get away with all the loot the police were keeping for themselves. YOU WIN :D|Play again?|0|Quit?|-1|
 16|Your pirate crew decripts the merchant ship's transmission to the police. They are sending the SWAT after you!|RUN AWAY|19|Fight anyway|18|
@@ -26,8 +26,8 @@
 25|You name it....|Rex Leonum|26|Simba|26|Jaffar|26
 26|Good job. YOU WIN|Play again?|0|Quit?|-1|
 27|You got lit up. Man, you suck at this. GAME OVER|Try again?|0|Give up?|-1|
-28|"COOL" - Your crew (they decide to not kill you in your sleep). The CONVEX REGULAR DODECAHEDRON has some pretty strong weapons. Are you sure you want to take them on?"|Yeseth|30|Noeth|29|
-29|"LAAAAAAAAAME" - Your crew (they kill you in your sleep). GAME OVER"|Try again?|0|Give up?|-1|
+28|"COOL" - Your crew (they decide to not kill you in your sleep). The CONVEX REGULAR DODECAHEDRON has some pretty strong weapons. Are you sure you want to take them on?|Yeseth|30|Noeth|29|
+29|"LAAAAAAAAAME" - Your crew (they kill you in your sleep). GAME OVER|Try again?|0|Give up?|-1|
 30|You and your new partners head out on a heist that will go down in history. How should you prepare on the way there?|PAAARTY|31|Clean up the mess from earlier|32|
 31|You make more of mess but your crew's morale has been boosted! The time for the raid is near...|Follow the plan|33|Let's ignore the plan and just nuke them :)|34|
 32|Your crew cooperates for once and actually cleans up the deck. The time for the raid is near...|Follow the plan|33|Let's ignore the plan and just nuke them :)|34|
