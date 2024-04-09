@@ -23,7 +23,7 @@ public:
   string getQuestion();
   void setQuestion(string);
   void setId(int);
-
+  // returns the size of `responses`
   int getResponsesSize();
   // append the paramater Response to `responses`
   void addResponse(Response);

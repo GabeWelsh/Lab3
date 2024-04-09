@@ -16,7 +16,10 @@ int main() {
     return 1;
   }
   string line;
+  int i=0;
   while (getline(inputFile, line)) {
+    i++;
+    cout << i << endl;
     Prompt prompt;
     istringstream iss(line);
     iss >> prompt;
@@ -35,7 +38,6 @@ int main() {
     try {
       tempI = stoi(tempS);
     } catch (const exception &e) {
-      cout << "yikes" << endl;
       cout << "---- Try again with valid input bucko ----" << endl;
       continue;
     }
@@ -51,7 +53,7 @@ int main() {
 
   } while (index >= 0);
 
-  cout << "Sayonara" << endl;
+  cout << "Sayonara!" << endl;
 
   // so ez, just a 2 step process
 

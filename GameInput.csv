@@ -1,32 +1,37 @@
-0|You are traveling down a forest path and come to an intersection. The left turn is straight for as far as you can see, full of dappling sunlight and chirping birds. The path of the right turn is hard to see in its twisty, overgrown darkness. Straight ahead seems to be the same as the path behind you.|Turn left?|1|Turn right?|2|Go straight?|3|
-1|You notice a few small pieces of wrapped candy on this path.|Do you eat one?|4|Do you pick them up to throw away later?|5|Do you leave them on the forest floor?|6|
-2|It's hard to see, but you turn a corner to find a giant gingerbread house with a small garden in front. The door to the house is open.|You peek in yelling, "Anyone home?"|16|You start eating the shutters.|17|
-3|You've been walking for miles. You're hot and thirsty. The path still looks the same.|You continue down the path?|20|Turn around and walk back to the intersection.|21|
-4|You see an opening in a giant tree. There's a door knocker on the trunk.|Do you continue on the path?|7|Do you knock the door knocker?|8|Do you enter the tree without knocking?|9|
-5|You continue along the path only to arrive at the intersection where you began. You just went in a circle.|Play again?|0|Quit for now.|-1|
-6|You hear the rattling of leaves, the shuffling of many small feet, the beating of many wings in the air. The sound of drums and electric guitar sound and Snow White appears singing Hearts' Barracuda. The animals attack you.|Play again?|0|Quit for now.|-1|
-7|The path opens up to a bustling market. But you don't have any money. So you have to turn around and fo home. :-(|Play again?|0|Quit for now.|-1|
-8|A large white rabbit peeks out and offers you a blue drink as she downs one of her own with a smile on her face.|Do you thank the rabbit and drink the offered beverage?|10|Do you say no thank you?|11|
-9|A rabbit slams a door previously unnoticed by you in your face, hitting you in the head and knocking you out.|Play again?|0|Quit for now.|-1|
-10|You and the rabbit have shrunk to the size of peanuts. She grabs your hand, pulls you into the tree where there's an elevator where there are two buttons. She asks you to push one.|Do you push the first button with the up arrow?|12|Do you push the second button with the down arrow?|13|
-11|The rabbit slams the door previously unnoticed by you in your face, hitting you in the head and knocking you out.|Play again?|0|Quit for now.|-1|
-12|The elevator opens on an apiary of falcons. The rabbit leaps from the elevator onto the back of a falcon. You attempt the same move, but mid-air, one of the falcons catches you in its beak and eats you.|Play again?|0|Quit for now.|-1|
-13|The elevator opens into a a giant cavern with what looks like a small town. There are lights, buildings, and tiny rabbits going about their business. Your rabbit steps out of the elevator and asks, "Are you coming?"|It's too much. You stay in the elevator, watching the doors close and feeling the elevator move back up to the surface.|14|You say, "Of course I am!"|15|
-14|You wake up on the forest floor, the sun fading. That candy must have been bad.|Play again?|0|Quit for now.|-1|
-15|The rabbit leads you to the town square where a festival is taking place. You follow her through the crowds to a bandstand. The rabbit mayor invites you up, and makes you an honorary Rabbit Citizen. Congratulations!  You win!|Play again?|0|Quit for now.|-1|
-16|A small garden gnome peeks out of the garden, replies "Yes. How can I help you?"|You pick up the gnome and smash it on the side of the house. No one likes garden gnomes.|18|You say nothing since you have no idea.|19|
-17|You really need some milk to go with those shutters, so you walk inside and open the fridge where you see Hansel and Gretel in cold storage. You vomit the shutters and pass out on the floor.|Play again?|0|Quit for now.|-1|
-18|From inside the smashed gnome falls some IBM stock certificates dates 1911. They must be worth millions now! Congratulations!  You win!|Play again?|0|Quit for now.|-1|
-19|The gnome throws a rock at you which hits you in the face. You wake up back where you started, at the path intersection.|Play again?|0|Quit for now.|-1|
-20|FINALLY, the path changes. Around a curve to the right you see a horse. Standing on the horse in a cat in boots at a hat with a sword at its side. The cat asks if you could help him with the saddle which has come loose.|You help, even though you don't know what you're doing.|22|You help. It turns out you are an experienced equestrian.|23|You don't help - you're allergic to cats.|24|
-21|You make it back to the path intersection, right where you started|Play again?|0|Quit for now.|-1|
-22|The cat invites you to continue with him. You pull yourself up on the saddle, but since it wasn't cinched well it slides and you fall on the ground hitting your head and knocking yourself out.|Play again?|0|Quit for now.|-1|
-23|The cat invites you to continue with him. You both ride the horse through the forest when you come upon a clearing with a town fair. The smells from the food stalls are divine, and your stomach audibly rumbles. But you have no money. The cat offers to buy you some food and you both dismount and he ties the horse's reins to a post.|You choose chocolate ice cream.|25|You choose a funnel cake.|26|You choose a foot long hot dog.|27|
-24|In a sneezing fit, you barely make it back to the intersection where you began.|Play again?|0|Quit for now.|-1|
-25|After you eat your ice cream, you and the cat sit and watch a hypnotist's show. The hypnotist calls you to the stage.|You shake your head no and refuse to go on stage.|28|You go on stage.|29|
-26|As you eat the funnel cake, you bite down on something hard that chips a tooth. It hurts like mad. You need a dentist ASAP. You ask the cat to take you back to the intersection where you began.|Play again?|0|Quit for now.|-1|
-27|The hot dog was not cooked thoroughly and you get food poisoning.|Play again?|0|Quit for now.|-1|
-28|Even as the hypnotist continues the show without you on stage, you get hypnotized. You wake up at the intersection in the forest where you began.|Play again?|0|Quit for now.|-1|
-29|On stage, the hypnotist makes you quack like a duck. You see yourself doing it but can't stop. It's embarrassing. Then the hypnotist regresses you to a point in your life where you remember a story your grandmother told you about a treasure that can only be found down the left path of a dark forest, though a clearing with a fair, under a stone at the entrance to a cave.|You ask the cat to take you to the cave.|30|You decide to ditch the cat so you won't have to share the treasure.|31|
-30|The cat knows of a cave several hours down the trail by horse and agrees to take you there. You arrive at the cave entrance where, after several hours of upending stones, you find a cassette tape labeled "Grandma's mixed tape" and your name on it. Congratulations! You win (kindof)!|Play again?|0|Quit for now.|-1|
-31|You wander around in the forest for days trying to find the cave. You never do. You perish from exposure.|Play again?|0|Quit for now.|-1|
+0|You are the captain the the renown space pirates: Astro Booty. You have just completed a successful heist on one of the space government's ship.|LETS PARTY!|1|Let's drive into the void :)|2|
+1|"You and your crew party the night away, creating a large mess on the ship deck."|Clean up the mess|4|Head to refuel|7|
+2|You are running low on fuel... Are you sure?|YES|3|No|0|
+3|"Congrats, you ran out of fuel in the middle of nowhere. You and your crew die of dehydration. GAME OVER"|Try again?|0|Give up?|-1|
+4|Turns out your crew doesn't like to clean very much. They decide to stage a mutiny. What should you do?|Party extra hard to make up for it|5|Tell them about the importance of cleaning.|6|
+5|You have now created an even bigger mess... At least you weren't killed...|Let's go get gas.|8|Let's search for a new target :)|7|
+6|You explain to your crew the myriad of psychological benefits to cleaning. Your crew kills you because you are such a nerd.|Try again?|0|Give up?|-1|
+7|You are running low on fuel... Are you sure?|"YES, I AM"|3|Nope|5|
+8|Congrats on getting gas. What should you do now?|Raid the nearest police station.|9|Search for the next victim... IN SPACE.|10|Chat with a nearby pirate crew.|11|
+9|You get your crew hyped up and ready to go. How should you approach the raid.|Use stealth|12|GUNS BLAZING|13|
+10|You find a merchant ship and a mobile carnival. Which one should you raid?|The merchant ship|16|The mobile carnival|17|
+11|You all talk about raiding the CONVEX REGULAR DODECAHEDRON (space pentagon) and come up with a pretty good plan.|Let's help them|28|"Nah, I'm good."|29|
+12|Apparently trying to be sneaky doesn't work when the station is equiped with a crap ton of sensors. You immediately get caught and massacred :D... GAME OVER|Try again?|0|Give up?|-1|
+13|You take the station by suprise. It's a hard fought battle, but you and your crew emerge victorious."|Let's set the prisoners free|14|Leave the prisoners in their cells.|15|
+14|They immediately steal your ship while you weren't looking. You are now stranded. GAME OVER|Try again?|0|Give up?|-1|
+15|You get away with all the loot the police were keeping for themselves. YOU WIN :D|Play again?|0|Quit?|-1|
+16|Your pirate crew decripts the merchant ship's transmission to the police. They are sending the SWAT after you!|RUN AWAY|19|Fight anyway|18|
+17|There are plenty of ships parked just outside of the carnival. Security is tight though...|Shoot a nuclear missile straight at the carnival.|20|Use stealth|27|
+18|Amidst stars they roamed, Space pirates' bold adventures, SWAT's justice claimed all. GAME OVER|Try again?|0|Give up?|-1|
+19|You fail to run away in time, and you get surrounded. You were killed. GAME OVER|Try again?|0|Give up?|-1|
+20|Oh no! One of the lions abord the vessel has mutated into a omnipotent being! How should you explain this to your wife?|My finger slipped.|21|It looked at me the wrong way...|21|You remember you don't have a wife.|22|
+21|The great lion god thanks you for giving it ultimate power. You don't understand it however because you don't speak lion.|Let's nuke it again :)|23|IT'S A POKEMON|24|
+22|Crazy? I was crazy once. They locked me in a room, a rubber room, a rubber room with rats. The rats made me crazy. GAME OVER|Try again?|0|Give up?|-1|
+23|It's dead somehow. I think you just saved the world from yourself. YOU WIN|Play again?|0|Quit?|-1|
+24|You throw a pokeball strait at it...1...2...3...YOU CAUGHT Tim. Would you like to nickname this pokemon?|I have some good ideas ;)|25|Nah, I'm good.|26|
+25|You name it....|Rex Leonum|26|Simba|26|Jaffar|26
+26|Good job. YOU WIN|Play again?|0|Quit?|-1|
+27|You got lit up. Man, you suck at this. GAME OVER|Try again?|0|Give up?|-1|
+28|\"COOL\" - Your crew (they decide to not kill you in your sleep). The CONVEX REGULAR DODECAHEDRON has some pretty strong weapons. Are you sure you want to take them on?"|Yeseth|30|Noeth|29|
+29|\"LAAAAAAAAAME\" - Your crew (they kill you in your sleep). GAME OVER"|Try again?|0|Give up?|-1|
+30|You and your new partners head out on a heist that will go down in history. How should you prepare on the way there?|PAAARTY|31|Clean up the mess from earlier|32|
+31|You make more of mess but your crew's morale has been boosted! The time for the raid is near...|Follow the plan|33|Let's ignore the plan and just nuke them :)|34|
+32|Your crew cooperates for once and actually cleans up the deck. The time for the raid is near...|Follow the plan|33|Let's ignore the plan and just nuke them :)|34|
+33|Just according to keikaku (TL: keikaku means plan). Now your partner is taking all the loot :D! Wait... that wasn't part of the plan...|NUKE THEM|35|
+34|Uhhh, the bariers are still up..? What are you doing?|NUKE THEM|36|lol nvm|32|
+35|They got what they deserved. Now you get all the loot for yourself. You'll be able to live the rest of your life with great wealth! YOU WIN|Play again?|0|Quit?|-1|
+36|The nukes do nothing... The keikaku is ruined (TL: keikaku means plan)... You and your confidant are quickly arrested. GAME OVER|Try again?|0|Give up?|-1|
