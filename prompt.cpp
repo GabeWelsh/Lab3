@@ -1,10 +1,13 @@
+/* FILE: prompt.cpp
+ * PURPOSE: define Prompt class
+ */
 #include "prompt.h"
 #include "response.h"
 #include <iostream>
 #include <random>
 #include <vector>
 
-string Prompt::outputs[] = {"What now?",
+const string Prompt::outputs[] = {"What now?",
                             "What should you do?",
                             "Choose wisely...",
                             "Be careful.",

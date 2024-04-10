@@ -1,3 +1,6 @@
+/* FILE: response.h
+ * PURPOSE: declare Response class
+ */
 #ifndef RESPONSE_H
 #define RESPONSE_H
 
@@ -7,8 +10,8 @@ using namespace std;
 
 class Response {
 private:
-  string responseText;
-  int index;
+  string responseText; // the response to a prompt
+  int index; // the next response's index in an array/vector
 
 public:
   // Default constructor

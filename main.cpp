@@ -1,3 +1,7 @@
+/* FILE: prompt.h
+ * PURPOSE: create a vector of Prompts, read a file into it, 
+ *          then run the game.
+ */
 #include "prompt.h"
 #include <exception>
 #include <fstream>
@@ -32,7 +36,7 @@ int main() {
     string tempS;
     int tempI; // bigger than `cool` :)
     cin >> tempS;
-    // verify input
+    // process input
     try {
       tempI = stoi(tempS);
     } catch (const exception &e) {
@@ -40,13 +44,13 @@ int main() {
       continue;
     }
     if (tempI < 0) {
-      break;
+      break; // end program
     }
     if (tempI > cool[index].getResponsesSize() - 1) {
       cout << "---- Try again with valid input bucko ----" << endl;
       continue;
     }
-
+    // go to the next question
     index = cool[index].getResponseIdx(tempI);
 
   } while (index >= 0);

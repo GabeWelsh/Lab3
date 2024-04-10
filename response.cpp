@@ -1,3 +1,6 @@
+/* FILE: response.cpp
+ * PURPOSE: define some Response class methods
+ */
 #include "response.h"
 #include <iostream>
 

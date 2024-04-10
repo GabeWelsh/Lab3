@@ -1,3 +1,6 @@
+/* FILE: prompt.h
+ * PURPOSE: declare Prompt class
+ */
 #ifndef PROMPT_H
 #define PROMPT_H
 
@@ -9,7 +12,7 @@ using namespace std;
 class Prompt {
 private:
   vector<Response> responses;
-  static string outputs[];
+  static const string outputs[];
   string question;
   int id;
 
@@ -25,7 +28,7 @@ public:
   void setId(int);
   // returns the size of `responses`
   int getResponsesSize();
-  // append the paramater Response to `responses`
+  // append the paramater Response to `responses` vector
   void addResponse(Response);
 
   // get next index from the `inth` element in `responses`
