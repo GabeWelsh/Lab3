@@ -4,7 +4,7 @@
 3|Congrats, you ran out of fuel in the middle of nowhere. You and your crew die of dehydration. GAME OVER|Try again?|0|Give up?|-1|
 4|Turns out your crew doesn't like to clean very much. They decide to stage a mutiny. What should you do?|Party extra hard to make up for it|5|Tell them about the importance of cleaning.|6|
 5|You have now created an even bigger mess... At least you weren't killed...|Let's go get gas.|8|Let's search for a new target :)|7|
-6|You explain to your crew the myriad of psychological benefits to cleaning. Your crew kills you because you are such a nerd.|Try again?|0|Give up?|-1|
+6|You explain to your crew the myriad of psychological benefits to cleaning. Your crew kills you because you are such a nerd. GAME OVER|Try again?|0|Give up?|-1|
 7|You are running low on fuel... Are you sure?|YES, I AM|3|Nope|5|
 8|Congrats on getting gas. What should you do now?|Raid the nearest police station.|9|Search for the next victim... IN SPACE.|10|Chat with a nearby pirate crew.|11|
 9|You get your crew hyped up and ready to go. How should you approach the raid.|Use stealth|12|GUNS BLAZING|13|
