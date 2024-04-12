@@ -1,5 +1,5 @@
-0|You are the captain the the renown space pirates: Astro Booty. You have just completed a successful heist on one of the space government's ship.|LETS PARTY!|1|Let's drive into the void :)|2|
-1|You and your crew party the night away, creating a large mess on the ship deck.|Clean up the mess|4|Head to refuel|8|
+0|You are the captain the the renown space pirates: Astro Booty. You have just completed a successful heist on one of the Space Government's ships.|LETS PARTY!|1|Let's drive into the void :)|2|
+1|You and your crew party the night(?) away, creating a large mess on the ship deck.|Clean up the mess|4|Head to refuel|8|
 2|You are running low on fuel... Are you sure?|YES|3|No|0|
 3|Congrats, you ran out of fuel in the middle of nowhere. You and your crew die of dehydration. GAME OVER|Try again?|0|Give up?|-1|
 4|Turns out your crew doesn't like to clean very much. They decide to stage a mutiny. What should you do?|Party extra hard to make up for it|5|Tell them about the importance of cleaning.|6|
@@ -13,18 +13,18 @@
 12|Apparently trying to be sneaky doesn't work when the station is equiped with a crap ton of sensors. You immediately get caught and massacred :D... GAME OVER|Try again?|0|Give up?|-1|
 13|You take the station by suprise. It's a hard fought battle, but you and your crew emerge victorious.|Let's set the prisoners free|14|Leave the prisoners in their cells.|15|
 14|They immediately steal your ship while you weren't looking. You are now stranded. GAME OVER|Try again?|0|Give up?|-1|
-15|You get away with all the loot the police were keeping for themselves. YOU WIN :D|Play again?|0|Quit?|-1|
+15|You get away with all the loot the police were keeping for themselves. YOU WIN!|Play again?|0|Quit?|-1|
 16|Your pirate crew decripts the merchant ship's transmission to the police. They are sending the SWAT after you!|RUN AWAY|19|Fight anyway|18|
 17|There are plenty of ships parked just outside of the carnival. Security is tight though...|Shoot a nuclear missile straight at the carnival.|20|Use stealth|27|
 18|Amidst stars they roamed, Space pirates' bold adventures, SWAT's justice claimed all. GAME OVER|Try again?|0|Give up?|-1|
 19|You fail to run away in time, and you get surrounded. You were killed. GAME OVER|Try again?|0|Give up?|-1|
-20|Oh no! One of the lions abord the vessel has mutated into a omnipotent being! How should you explain this to your wife?|My finger slipped.|21|It looked at me the wrong way...|21|You remember you don't have a wife.|22|
+20|Oh no! One of the lions abord the vessel has mutated into an omnipotent being! How should you explain this to your wife?|My finger slipped.|21|It looked at me the wrong way...|21|You remember you don't have a wife.|22|
 21|The great lion god thanks you for giving it ultimate power. You don't understand it however because you don't speak lion.|Let's nuke it again :)|23|IT'S A POKEMON|24|
 22|You wake up in a room, a rubber room. A rubber room with rats. The rats made you crazy. GAME OVER|Try again?|0|Give up?|-1|
-23|It's dead somehow. I think you just saved the world from yourself. YOU WIN|Play again?|0|Quit?|-1|
+23|It's dead somehow. I think you just saved the world from yourself. YOU WIN!|Play again?|0|Quit?|-1|
 24|You throw a pokeball strait at it...1...2...3...YOU CAUGHT Tim. Would you like to nickname this pokemon?|I have some good ideas ;)|25|Nah, I'm good.|26|
 25|You name it....|Rex Leonum|26|Simba|26|Jaffar|26
-26|Good job. YOU WIN|Play again?|0|Quit?|-1|
+26|Good job. YOU WIN!|Play again?|0|Quit?|-1|
 27|You got lit up. Man, you suck at this. GAME OVER|Try again?|0|Give up?|-1|
 28|"COOL" - Your crew (they decide to not kill you in your sleep). The CONVEX REGULAR DODECAHEDRON has some pretty strong weapons. Are you sure you want to take them on?|Yeseth|30|Noeth|29|
 29|"LAAAAAAAAAME" - Your crew (they kill you in your sleep). GAME OVER|Try again?|0|Give up?|-1|
@@ -33,5 +33,5 @@
 32|Your crew cooperates for once and actually cleans up the deck. The time for the raid is near...|Follow the plan|33|Let's ignore the plan and just nuke them :)|34|
 33|Just according to keikaku (TL: keikaku means plan). Now your partner is taking all the loot :D! Wait... that wasn't part of the plan...|NUKE THEM|35|
 34|Uhhh, the bariers are still up..? What are you doing?|NUKE THEM|36|lol nvm|32|
-35|They got what they deserved. Now you get all the loot for yourself. You'll be able to live the rest of your life with great wealth! YOU WIN|Play again?|0|Quit?|-1|
+35|They got what they deserved. Now you get all the loot for yourself. You'll be able to live the rest of your life with great wealth! YOU WIN!|Play again?|0|Quit?|-1|
 36|The nukes do nothing... The keikaku is ruined (TL: keikaku means plan)... You and your confidant are quickly arrested. GAME OVER|Try again?|0|Give up?|-1|
