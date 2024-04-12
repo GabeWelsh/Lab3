@@ -60,7 +60,7 @@ ostream &operator<<(ostream &os, const Prompt &prompt) {
   os << prompt.question << endl;
 
   // print responses vec
-  int i = 0;
+  int i = 1;
   for (vector<Response>::const_iterator lol = prompt.responses.cbegin();
        lol != prompt.responses.cend(); lol++) {
     os << "(" << i << ") " << lol->getResponseText() << endl;

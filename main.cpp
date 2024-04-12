@@ -39,12 +39,13 @@ int main() {
     // process input
     try {
       tempI = stoi(tempS);
+      tempI--; // user options start at 1 so -1 to get 0
     } catch (const exception &e) {
       cout << "---- Try again with valid input bucko ----" << endl;
       continue;
     }
     if (tempI < 0) {
-      break; // end program
+      break;
     }
     if (tempI > cool[index].getResponsesSize() - 1) {
       cout << "---- Try again with valid input bucko ----" << endl;
